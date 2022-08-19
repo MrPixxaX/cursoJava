@@ -41,4 +41,4 @@ const titulo = document.querySelector(".titulo");
 titulo.setAttribute("tabindex","0")
 
 
-//quede en el 8:12:44
+//quede en el 8:12:44 hora
